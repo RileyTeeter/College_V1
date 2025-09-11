@@ -7,12 +7,19 @@ The goal of this database is to provide a structured schema to manage data about
 
 ---
 
+## 🖼️ EER Diagram
+
+<img width="877" height="828" alt="image" src="https://github.com/user-attachments/assets/a5edbb0c-f359-491d-82fc-cc87ccb5bd81" />
+
+
+---
+
 ## 🗂️ File Information
 - **File name:** `college_v1.mwb`  
 - **Tool used:** MySQL Workbench (EER Diagram)  
 - **Version:** 1.0  
-- **Author:** [Your Name]  
-- **Date Created:** [MM/DD/YYYY]  
+- **Author:** Riley Teeter and Tyler Lucas 
+- **Date Created:** 09/08/2025
 
 ---
 
@@ -56,7 +63,6 @@ The EER diagram includes the following **main entities** (with key attributes):
 
 - **Many-to-Many:**  
   - Student ↔ Course (resolved via Enrollment)
-  - 
 ---
 
 ## ⚙️ Constraints & Business Rules
