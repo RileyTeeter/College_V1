@@ -83,10 +83,10 @@ The EER diagram includes the following **main entities** (with key attributes):
 ---
 ## 👩‍💻 Authors
 - **Name:** Tyler Lucas
-  - GitHub: [https://github.com/TylerLucas1]  
+  - GitHub: https://github.com/TylerLucas1  
 
 - **Name:** Riley Teeter 
-  - GitHub: [https://github.com/RileyTeeter]
+  - GitHub: https://github.com/RileyTeeter
 ---
 
 ## 📖 License
